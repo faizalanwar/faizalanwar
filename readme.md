@@ -29,7 +29,7 @@
 <!-- section - intro -->
 <!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
 
-# ❤ to Build - Software Engineer & Enthusiast!
+# Hai , Im Faizal Anwar ❤!
 
 
 Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
@@ -93,41 +93,9 @@ Python . JavaScript . C++ . Java
 
 ## Check my blogs & posts .. ✨
 
-- [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
-
-- [When to choose NoSQL over SQL?](https://dev.to/ombharatiya/when-to-choose-nosql-over-sql-536p)
-
-- [Dockerize Django PostgreSQL — Simple Set-Up using Docker Compose](https://medium.com/@ombharatiya/dockerize-django-postgresql-simple-docker-compose-set-up-ombharatiya-13026aa142c3)
-
-- [Failure Story behind the Demo-2 launch mission of SpaceX cc Elon Musk](https://www.linkedin.com/posts/activity-6672761818504679424-y1Cf)
-
-- [Lightsabers Problem - Hashing](https://medium.com/@ombharatiya/lightsabers-problem-hashing-programming-in-c-b546c6f5331a)
-
-- [Why Java in the name of JavaScript](https://www.linkedin.com/posts/activity-6674171656325468160-u48L)
-
-- [₹ 1.5 Crore worth resources to students by GitHub](https://www.linkedin.com/posts/activity-6669904120138350592-U1wQ)
-
-- [Heros of Chandrayaan-2 Launch Mission ISRO](https://www.linkedin.com/posts/activity-6559739007759151104-jbOu)
-
-- [A blog on Microsoft AI bot Ruuh](https://medium.com/datadriveninvestor/can-an-ai-bot-be-my-girlfriend-a-blog-on-our-desi-ai-chatbot-ruuh-39b9c98c93a1)
+- [Naskahkode](https://naskahkode.com)
 
 <!-- section - blogs -->
-
-## How To Make a Similar Home Page for your GitHub ? 😎
-
-1. Fork this repo.
-
-2. Edit the README.md file with your info.
-
-3. Rename your repo to your github username in settings tab.(for example my username is ombharatiya)
-
-4. You made it!
-
-Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff. 
-
-More details are on this blog link: [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
-
-
 
 
 ## Thank you and Namaste! 🙏
