@@ -23,10 +23,19 @@
 <!-- section - intro -->
 <!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
 
-# Hai , Im Faizal Anwar ❤!
+# Hai , Im Faizal Anwar ✌!
 
 
-Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. 💖
+
+
+🦄 I love _CODING_
+
+👨‍💻 I _BUILD_ resilient apps & services
+
+📰 Reading & writing _TECH BLOGS_
+
+
 
 <!-- section - social media icons -->
 
@@ -53,15 +62,6 @@ Django . React.js . Microservices . Docker . AWS Services ,,Postgresql . MongoDB
 
 
 <!-- section - interests -->
-
-## My Absolute Favorites .. 💖
-
-🦄 I love _CODING_
-
-👨‍💻 I _BUILD_ resilient apps & services
-
-📰 Reading & writing _TECH BLOGS_
-
 
 ## Thank you and Namaste! 🙏
 
