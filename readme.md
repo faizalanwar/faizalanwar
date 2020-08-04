@@ -28,15 +28,6 @@
 
 Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
 
-- [Naskahkode](https://naskahkode.com)
-<!-- section - intro -->
-
-<!-- section - social media icons -->
-
-[![github ombharatiya][2.1]][2]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
-
 <!-- section - social media icons -->
 
 <!-- section - skills -->
