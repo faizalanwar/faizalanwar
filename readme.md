@@ -44,11 +44,7 @@ Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff 
 
 ## I work on .. 💻
 
-Django . React.js . Microservices . Docker . AWS Services
-
-Postgresql . MongoDB . Redis . DynamoDB
-
-Python . JavaScript . C++ . Java
+Django . React.js . Microservices . Docker . AWS Services ,,Postgresql . MongoDB . Redis . DynamoDB , Python . JavaScript . C++ . Java
 
 <!-- section - skills -->
 
@@ -76,7 +72,6 @@ Python . JavaScript . C++ . Java
 
 📰 Reading & writing _TECH BLOGS_
 
-🍕 _HACKATHONS_ & problem solving
 
 <!-- section - interests -->
 
@@ -102,8 +97,3 @@ Thanks for reading about me. You can connect with me on ..
 [![stackoverflow om-bharatiya][5.1]][5]
 [![dev to ombharatiya][6.1]][6]
 
-<!-- section - social media icons -->
-
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
- <p/>
