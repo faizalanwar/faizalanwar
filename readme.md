@@ -28,6 +28,7 @@
 
 Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
 
+- [Naskahkode](https://naskahkode.com)
 <!-- section - intro -->
 
 <!-- section - social media icons -->
@@ -37,8 +38,6 @@ Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff 
 [![dev to ombharatiya][6.1]][6]
 
 <!-- section - social media icons -->
-
- ---
 
 <!-- section - skills -->
 
@@ -71,17 +70,6 @@ Django . React.js . Microservices . Docker . AWS Services ,,Postgresql . MongoDB
 👨‍💻 I _BUILD_ resilient apps & services
 
 📰 Reading & writing _TECH BLOGS_
-
-
-<!-- section - interests -->
-
-<!-- section - blogs -->
-
-## Check my blogs & posts .. ✨
-
-- [Naskahkode](https://naskahkode.com)
-
-<!-- section - blogs -->
 
 
 ## Thank you and Namaste! 🙏
