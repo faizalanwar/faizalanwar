@@ -1,7 +1,3 @@
-<!-- Don't remove this --- https://github.com/ombharatiya -->
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
 
 <!-- icons  -->
 
@@ -21,8 +17,6 @@
 [5]: https://stackoverflow.com/users/8454203/om-bharatiya
 [6]: http://dev.to/ombharatiya
 
-<!-- Don't remove this --- https://github.com/ombharatiya -->
-
 
 
 
@@ -38,10 +32,7 @@ Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff 
 
 <!-- section - social media icons -->
 
-[![linkedin ombharatiya][1.1]][1]
 [![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
-[![medium ombharatiya][4.1]][4]
 [![stackoverflow om-bharatiya][5.1]][5]
 [![dev to ombharatiya][6.1]][6]
 
