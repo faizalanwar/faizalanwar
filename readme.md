@@ -31,21 +31,7 @@ Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff 
 
 🦄 I love _CODING_
 
-👨‍💻 I _BUILD_ resilient apps & services
-
-📰 Reading & writing _TECH BLOGS_
-
-
-
-<!-- section - social media icons -->
-
-<!-- section - skills -->
-
-## I work on .. 💻
-
-Django . React.js . Microservices . Docker . AWS Services ,,Postgresql . MongoDB . Redis . DynamoDB , Python . JavaScript . C++ . Java
-
-<!-- section - skills -->
+👨‍I _BUILD_ resilient apps & 
 
 <!-- section - job details -->
 
