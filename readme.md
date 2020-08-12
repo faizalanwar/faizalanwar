@@ -31,7 +31,7 @@ Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff 
 
 🦄 I love _CODING_
 
-👨‍I _BUILD_ resilient apps & 
+👨‍I _BUILD_ Website
 
 <!-- section - job details -->
 
@@ -55,9 +55,8 @@ Thanks for reading about me. You can connect with me on ..
 
 <!-- section - social media icons -->
 
-[![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
+[![github faizalanwar][2.1]][2]
+[![twitter fzlanwr][3.1]][3]
 [![medium ombharatiya][4.1]][4]
 [![stackoverflow om-bharatiya][5.1]][5]
 [![dev to ombharatiya][6.1]][6]
