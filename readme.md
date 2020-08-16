@@ -12,9 +12,9 @@ Hi there, I'm **Faizal Anwar**, a **Web Designer** and a **Software Engineering 
 - 👨🏽‍💻 I’m currently designing and developing websites;
 - 🌱 I’m currently learning Laravue ~✨; 
 - 🤔 My interests are with front-end & web designing;
-- 💼 I’m still a highschool boys;
+- 💼 I’m an IT student at Polytechnic Stikom Cirebon
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via syaokay@gmail.com to reach me.
+- 📫 Please email via flanwr@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](#) to get more info.
 
 
