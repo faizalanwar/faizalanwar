@@ -49,7 +49,7 @@
 <br />
 <br />
 
-Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Devover](https://github.com/devoverid), Organizing my own class organization 👨🏽‍💻 [@Devcode](https://github.com/devcode), and a content creator 👨‍🎨 [@Descienfy](https://github.com/descienfy)
+Hi there, I'm **Faizal Anwar**, a **Web Designer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@naskahkode](https://github.com/naskahkode), and a content creator 👨‍🎨 
 
   <img align="right" alt="GIF" src="https://2.bp.blogspot.com/-AU4dJ99ahuI/WcSTNTslcJI/AAAAAAAACIg/jqQTpHui66g8L_Il3eMUXfJywMJ7bowEgCLcBGAs/s400/tired.gif" />
 
@@ -81,7 +81,7 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 <summary> <b> My Github Statistic 🐱‍🏍 </b> <i>(click to expand!)</i> </summary>
   <br />
   
- [![Syauqi's github stats](https://github-readme-stats.vercel.app/api?username=syauqi)](https://github.com/syauqi/learnify)
+ [![Syauqi's github stats](https://github-readme-stats.vercel.app/api?username=faizalanwar)](https://github.com/syauqi/learnify)
  
   </details>
 
