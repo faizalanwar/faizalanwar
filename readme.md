@@ -1,4 +1,4 @@
-### Hey 👋, I'm Syauqi !
+### Hey 👋, I'm Faizal Anwar !
 
 ![Profile views](https://gpvc.arturio.dev/faizalanwar)
 
@@ -65,7 +65,7 @@ Hi there, I'm **Faizal Anwar**, a **Web Designer** and a **Software Engineering 
 <summary> <b> My Github Statistic 🐱‍🏍 </b> <i>(click to expand!)</i> </summary>
   <br />
   
- [![Syauqi's github stats](https://github-readme-stats.vercel.app/api?username=faizalanwar)](https://github.com/syauqi/learnify)
+ [![Syauqi's github stats](https://github-readme-stats.vercel.app/api?username=faizalanwar)](https://gist.github.com/faizalanwar/7f24815eb518ef61cdfdd98988ec12b1)
  
   </details>
 
