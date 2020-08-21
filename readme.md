@@ -1,7 +1,8 @@
 ### Hey 👋, I'm Faizal Anwar !
 <br />
-Hi there, I'm **Faizal Anwar**, a **Web Designer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@naskahkode](https://github.com/naskahkode), and a content creator 👨‍🎨 
+Hi there, I'm **Faizal Anwar**, a **Web Designer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Naskahkode](https://github.com/naskahkode), and a content creator 👨‍🎨 
 
+  
   <img align="right" alt="GIF" src="https://2.bp.blogspot.com/-AU4dJ99ahuI/WcSTNTslcJI/AAAAAAAACIg/jqQTpHui66g8L_Il3eMUXfJywMJ7bowEgCLcBGAs/s400/tired.gif" />
 
 **Talking about Personal Stuffs:**
