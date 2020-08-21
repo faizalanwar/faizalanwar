@@ -39,11 +39,6 @@ Hi there, I'm **Faizal Anwar**, a **Web Designer** and a **Software Engineering 
   </details>
 
 <h3> Check 🐱‍🏍, Most Popular Repositories: </h3>
-<p>
-<a href="https://github.com/faizalanwar/simplecrudci3">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=faizalanwar&repo=simplecrudci3" />
-</a>
 <a href="https://github.com/faizalanwar/api">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=faizalanwar&repo=api" />
 </a>
-</p>
