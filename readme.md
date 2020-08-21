@@ -1,7 +1,6 @@
 ### Hey 👋, I'm Faizal Anwar !
 
 <br />
-<br />
 
 Hi there, I'm **Faizal Anwar**, a **Web Designer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@naskahkode](https://github.com/naskahkode), and a content creator 👨‍🎨 
 
@@ -45,7 +44,6 @@ Hi there, I'm **Faizal Anwar**, a **Web Designer** and a **Software Engineering 
 <a href="https://github.com/faizalanwar/simplecrudci3">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=faizalanwar&repo=simplecrudci3" />
 </a>
-</p>
 <a href="https://github.com/faizalanwar/api">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=faizalanwar&repo=api" />
 </a>
