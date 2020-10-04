@@ -21,18 +21,3 @@ Hi there, I'm *Faizal Anwar**, a **Web Designer**  🚀 from Indonesia, currentl
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-
-<details>
-<summary> <b> My Github Statistic 🐱‍🏍 </b> <i>(click to expand!)</i> </summary>
-  <br />
-  
- [![Syauqi's github stats](https://github-readme-stats.vercel.app/api?username=faizalanwar)](https://gist.github.com/faizalanwar/7f24815eb518ef61cdfdd98988ec12b1)
- 
-  </details>
-
-<h3> Check 🐱‍🏍, Most Popular Repositories: </h3>
-<a href="https://github.com/faizalanwar/api">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=faizalanwar&repo=api" />
-</a>
