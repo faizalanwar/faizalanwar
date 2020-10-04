@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Faizal Anwar !
 <br />
-Hi there, I'm **Faizal Anwar**, a **Web Designer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Naskahkode](https://github.com/naskahkode), and a content creator 👨‍🎨 
+Hi there, I'm *Faizal Anwar**, a **Web Designer**  🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Naskahkode](https://github.com/naskahkode), and a content creator 👨‍🎨 
 
   
   <img align="right" alt="GIF" src="https://2.bp.blogspot.com/-AU4dJ99ahuI/WcSTNTslcJI/AAAAAAAACIg/jqQTpHui66g8L_Il3eMUXfJywMJ7bowEgCLcBGAs/s400/tired.gif" />
@@ -8,10 +8,9 @@ Hi there, I'm **Faizal Anwar**, a **Web Designer** and a **Software Engineering 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently designing and developing websites;
-- 🌱 I’m currently learning Laravue ~✨; 
+- 🌱 I’m currently learning Larareact ~✨; 
 - 🤔 My interests are with front-end & web designing;
 - 💼 I’m an IT student at Polytechnic Stikom Cirebon
-- 📫 Please email via flanwr@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://faizalanwar.github.io/) to get more info.
 
 
