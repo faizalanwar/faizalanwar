@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Faizal Anwar !
 <br />
-Hi there, I'm **Faizal Anwar**, a **Web Designer**  🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Naskahkode](https://github.com/naskahkode), and a content creator 👨‍🎨 
-                                
+Hi there, I'm Faizal Anwar, a Web Designer 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Naskahkode], and a content creator 👨‍🎨 
+<br />          
 - 💼 I’m an IT student at Polytechnic Stikom Cirebon
 - 📝 See my [Curriculum Vitae](https://faizalanwar.github.io/) to get more info.
 
