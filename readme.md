@@ -24,7 +24,8 @@ I Have an Interest in the world of Programming and system development. Competent
 **About me:**
 - 👨🏻‍💻 I’m currently working on something cool;
 - :triangular_flag_on_post: I'm from Indonesia
-
+- 👨🏻‍💻 I’m currently working on something cool;
+- :triangular_flag_on_post: I'm from Indonesia
 - Downlaod My [ CV ](https://drive.google.com/file/d/)
 
 
