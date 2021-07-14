@@ -23,11 +23,9 @@ I Have an Interest in the world of Programming and system development. Competent
 
 **About me:**
 - 👨🏻‍💻 I’m currently working on something cool;
-- :school: My last education at [Universitas Islam Negeri Alauddin Makassar](https://uin-alauddin.ac.id)
-- 📫 How to reach me: azwarbahar07@gmail.com;
-- :triangular_flag_on_post: I'm from Makassar,Indonesia
+- :triangular_flag_on_post: I'm from Indonesia
 
-- Downlaod My [ CV ](https://drive.google.com/file/d/1DF87wFreBWv_Rln2ROylUyUyb4K7ZCFL/view?usp=sharing/badge)
+- Downlaod My [ CV ](https://drive.google.com/file/d/)
 
 
 </br>
