@@ -8,15 +8,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/azwarbahar)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/azwar.016/)
 [![Telegram Badge](https://img.shields.io/badge/-Whatsapp-25d366?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/6282394865570)
-
----
-
-### Donate via :
-
 [![PayPal](https://img.shields.io/badge/-PayPal-0088cc?logo=PayPal&logoColor=yellow&labelColor=black)](https://www.paypal.com/paypalme/azwarbahar)
 
-
-[![Sociabuzz](https://img.shields.io/badge/Sociabuzz-e4405f?style=flat-square&logo=Sociabuzz&logoColor=white)](https://sociabuzz.com/azwarbahar/donate)
 
 ---
 
@@ -41,15 +34,13 @@ I Have an Interest in the world of Programming and system development. Competent
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="Azwar's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="faizalanwar's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </p>
 
-### My WakaTime Coding Activity ###
-<img src="https://github.com/azwarbahar/azwarbahar/blob/main/images/stat.svg" alt="Alternative Text"/>
 
 <!--
-**azwarbahar/azwarbahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**faizalanwar/faizalanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!--
 Here are some ideas to get you started:
 
