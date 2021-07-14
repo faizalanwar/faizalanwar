@@ -26,6 +26,9 @@ I Have an Interest in the world of Programming and system development. Competent
 
 **Stats:**  
 
+</br>
+📈 **My GitHub Stats:**
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true" alt="faizalanwar's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact"/>
@@ -46,3 +49,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
