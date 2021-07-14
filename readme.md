@@ -22,7 +22,7 @@
 
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=azwarbahar.azwarbahar)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=faizalanwar.faizalanwar)
 
 I Have an Interest in the world of Programming and system development. Competent in this matter is my dream. Lately I have spent a lot of my time studying and deepening it. 
 
@@ -41,8 +41,8 @@ I Have an Interest in the world of Programming and system development. Competent
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azwarbahar&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="Azwar's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azwarbahar&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="Azwar's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </p>
 
 ### My WakaTime Coding Activity ###
