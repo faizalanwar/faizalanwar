@@ -19,11 +19,8 @@ I Have an Interest in the world of Programming and system development. Competent
 - :school: My last education at [Sekolah Tinggi Ilmu Komputer Poltek Cirebon ](https://stikompoltek.ac.id)
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about anything [here](https://github.com/faizalanwar/faizalanwar/issues)
+
 - Downlaod My [ CV ](https://drive.google.com/file/d/)
-
-
-
-</br>
 
 
 </br>
