@@ -62,7 +62,7 @@ I Have an Interest in the world of Programming and system development. Competent
 
 
 </br>
-📈 **My GitHub Stats:**
+**Stats:**  
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true" alt="faizalanwar's github stats" />
