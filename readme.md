@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=faizalanwar.faizalanwar)
 
-I Have an Interest in the world of Programming and system development. Competent in this matter is my dream. Lately I have spent a lot of my time studying and deepening it. Ask me about anything [here](https://github.com/faizalanwar/faizalanwar/issues) Download My CV [ Here ](https://drive.google.com/file/d/)
+A passionate self-taught full stack developer from Earth . I’m currently learning Php and Javascript . Ask me about anything [Here](https://github.com/faizalanwar/faizalanwar/issues), or download my CV [ Here ](https://drive.google.com/)
 </br></br>
 **Languages and Tools:**  
 </br>
@@ -23,7 +23,7 @@ I Have an Interest in the world of Programming and system development. Competent
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact"/>
 </p>
 
-
+<i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme</i>
 <!--
 **faizalanwar/faizalanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!--
