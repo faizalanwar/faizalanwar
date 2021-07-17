@@ -1,4 +1,3 @@
-
 <img align="right" alt="GIF" src="https://github.com/faizalanwar/faizalanwar/blob/master/coding.gif?raw=true" width="308" height="258" />
 
 ### Hi there, I'm Faizal Anwar<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
