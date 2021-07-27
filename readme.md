@@ -3,7 +3,7 @@
 ### `npx faizalanwar`
 
 
-Hello, this is **Faizal Anwar**
+Hello, this is Faizal Anwar
 
 I'm a passionate **FrontEND developer** living in West Java, Indonesia.  I write a program  with **JavaScript** and **PhP**.  
 I love **open source development**.  I build things on [my GitHub profile🚶](https://github.com/faizalanwar).
