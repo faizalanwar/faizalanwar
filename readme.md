@@ -20,9 +20,10 @@ Do not forget to view my open source projects below 👇🏻
 
 <details>
   <summary>More...</summary>
+ <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact&hide_border=true"/>
-  
+</p>
 <!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faizalanwar&hide_border=true"/> -->
   
   
