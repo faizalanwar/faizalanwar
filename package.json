@@ -1,0 +1,36 @@
+{
+  "name": "faizalanwar",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx faizalanwar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizalanwar/faizalanwar.git"
+  },
+  "keywords": [
+    "faizalanwae",
+    "faizal",
+    "anwar"
+  ],
+  "author": "faizalanwar",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/faizalanwar/faizalanwar/issues"
+  },
+  "homepage": "https://github.com/faizalanwar/faizalanwar#readme",
+  "bin": {
+    "faizalanwar": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "got": "^11.5.0",
+    "inquirer": "^7.3.0",
+    "open": "6.0.0",
+    "terminal-image": "^1.1.0",
+    "terminal-link": "^2.1.1",
+    "word-wrap": "^1.2.3"
+  }
+}
