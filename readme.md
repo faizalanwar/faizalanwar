@@ -5,7 +5,8 @@
 
 Hello, this is **Faizal Anwar**
 
-I'm a passionate **FrontEND developer** living in West Java, Indonesia.  I write a program  with **JavaScript** and **PhP**.  I love **open source development**.  I build things on [my GitHub profile🚶](https://github.com/faizalanwar).
+I'm a passionate **FrontEND developer** living in West Java, Indonesia.  I write a program  with **JavaScript** and **PhP**.  
+I love **open source development**.  I build things on [my GitHub profile🚶](https://github.com/faizalanwar).
 
   
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/faizalanwar)
