@@ -1,4 +1,4 @@
-&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=faizalanwar.faizalanwar)
+<!-- &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=faizalanwar.faizalanwar) -->
 
 ### `npx faizalanwar`
 
