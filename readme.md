@@ -34,7 +34,7 @@ Do not forget to view my open source projects below 👇🏻
 
 clone this repo `npm install && npm update`
 
-### Publishing to npm
+#### Publishing to npm
 
   -  Register an account at npmjs.com if you don’t have one.
   -  Add a user to your CLI by running `npm adduser.`
