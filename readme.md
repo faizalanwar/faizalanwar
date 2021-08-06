@@ -1,19 +1,19 @@
 ### `npx faizalanwar`
 
 
-Hello, this is Faizal Anwar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hello, I'm Faizal Anwar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-I am  22 years old a 👨‍💻 **`Frontend developer `**, living in West Java, Indonesia.  I write a program  with **JavaScript** and **PhP**.  
-I love **open source development**.  I build things on [my GitHub profile🚶](https://github.com/faizalanwar).
-
+Hi. I'm Faizal, but you can call me Isal(read: e'sal) , 22 years old a 👨‍💻 **` Frontend Engineer `**, living in West Java, Indonesia.  I’m currently learning about Design thinking and write a program with <i>JavaScript</i> and <i>PhP</i> .  I love open source development and share on [my GitHub profile🚶](https://github.com/faizalanwar).
+<!-- 
   
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/faizalanwar)
 - 🐦  [What do I think? (**Twitter**)](https://twitter.com/fzlanwr)
 - 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/faizalanwar)
 
-
 Do not forget to view my open source projects below 👇🏻
+ -->
+
 
 > P.S. To read this intro on terminal, just run `npx faizalanwar`. But why? -- why not? 🤷🏻‍♂️
 
@@ -48,7 +48,10 @@ clone this repo `npm install && npm update`
 
    - Publish the package. `npm publish --access=public`
    - And to push the updates to npm: `npm publish`
+  
+  <hr />
+  
+ 🎁 Thanks for checking my profile. I got something for you -  [**Flexbox-Guide**](https://flexbox-guide.vercel.app/) ⚡ A Guide for the concept of `CSS Flexbox`, `Responsive Design` and Simply `CSS code Generator`. 🎉  by souravdev777
 </details>
 
 
- 🎁 Thanks for checking my profile. I got something for you -  [**Flexbox-Guide**](https://flexbox-guide.vercel.app/) ⚡ A Guide for the concept of `CSS Flexbox`, `Responsive Design` and Simply `CSS code Generator`. 🎉  by souravdev777
