@@ -1,6 +1,8 @@
 ### `npx faizalanwar`
 
 
+
+
 Hello, I'm Faizal Anwar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
@@ -16,6 +18,8 @@ Do not forget to view my open source projects below 👇🏻
 
 
 > P.S. To read this intro on terminal, just run `npx faizalanwar`. But why? -- why not? 🤷🏻‍♂️
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=009v6xi434xnrztc9o4xa9toj&amp;cover_image=true&amp;theme=natemoo-re">
 
 <details>
   <summary>More...</summary>
