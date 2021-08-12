@@ -22,7 +22,7 @@ Do not forget to view my open source projects below 👇🏻
 <br>
  &nbsp;&nbsp; I'm listening : 
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=009v6xi434xnrztc9o4xa9toj&amp;cover_image=true&amp;theme=natemoo-re">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=009v6xi434xnrztc9o4xa9toj&cover_image=false&theme=natemoo-re">
 
 <details>
   <summary>More...</summary>
