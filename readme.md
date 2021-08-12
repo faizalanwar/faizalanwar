@@ -19,10 +19,8 @@ Do not forget to view my open source projects below 👇🏻
 
 > P.S. To read this intro on terminal, just run `npx faizalanwar`. But why? -- why not? 🤷🏻‍♂️
 
-<br>
- &nbsp;&nbsp; I'm listening : 
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=009v6xi434xnrztc9o4xa9toj&cover_image=false&theme=natemoo-re">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=009v6xi434xnrztc9o4xa9toj&cover_image=false&theme=natemoo-re" style=" margin-right: 0;width: 50%;">
 
 <details>
   <summary>More...</summary>
