@@ -12,15 +12,12 @@ got('https://avatars.githubusercontent.com/u/52071488?v=4', { responseType: 'buf
   .then(function (image) { return img.buffer(image.body, { width: '33%' }) })
   .then(function (image) {
 
+    console.log('\n\n')
     console.log(image)
     console.log(ww(`
-Hello, this is ${c.blue.bold("Faizal Anwar")}!
 
-I'm a passionate ${c.bgCyan.black.bold("FrontEND developer")} living in ${c.bold("West Java, Indonesia")}.
-I ${c.white.bold("write a program ")} with ${c.underline.bold.yellow("JavaScript")} and ${c.bold.blue("PhP")}.
-I love ${c.underline.bold.green("open source development")}.
-I build things on my GitHub profile ${link(c.red.bold('github.com/faizalanwar'), 'https://github.com/faizalanwar')}.
 
+Hi. I'm ${c.blue.bold("Faizal Anwar")}! , but you can call me Isal ${c.underline.bold.green("(read: e'sal)")} , 22 years old a 👨‍💻 ${c.bgCyan.black.bold("Frontend Engineer")} , living in West Java, Indonesia. I’m currently learning about Design thinking and ${c.white.bold("write a program ")} with ${c.underline.bold.yellow("JavaScript")} and ${c.bold.blue("PhP")}. I love open source development and share on my GitHub profile 🚶 ${link(c.red.bold('github.com/faizalanwar'), 'https://github.com/faizalanwar')}.
 `.trim(), { width: 200, trim: true }));
 
     console.log('\n\n')
@@ -35,6 +32,7 @@ I build things on my GitHub profile ${link(c.red.bold('github.com/faizalanwar'),
           { name: c.blue(`🏹  Curriculum vitae, the path of my life (${c.bold('LinkedIn')})`), value: 'https://linkedin.com/in/faizalanwar/' },
           { name: c.red('👋  Nope. Bye.\n'), value: false }
         ]
+       
       }
     ]).then(function (a) { opn(a.open); process.exit() }).catch(function () { });
   }).catch(function (e) { console.log(e) });
