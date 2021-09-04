@@ -24,10 +24,9 @@ got('https://avatars.githubusercontent.com/u/52071488?v=4', { responseType: 'buf
     console.log(ww(`
 
 
-Hi. I'm ${c.blue.bold("Faizal Anwar")}! , but you can call me Isal ${c.underline.bold.green("(read: e'sal)")} .
-
-I'm ${umur} years old a 👨‍💻 ${c.bgCyan.black.bold("Frontend Engineer")} , living in West Java, Indonesia.
-Currently learning about Design thinking and ${c.white.bold("write a program ")} with ${c.underline.bold.yellow("JavaScript")} and ${c.bold.blue("PhP")}. 
+Hi. I'm ${c.blue.bold("Faizal Anwar")}! , but you can call me Isal ${c.underline.bold.green("(read: e'sal)")} .\n
+I'm ${umur} years old a 👨‍💻 ${c.bgCyan.black.bold("Frontend Engineer")} , living in West Java, Indonesia.\n
+Currently learning about Design thinking and ${c.white.bold("write a program ")} with ${c.underline.bold.yellow("JavaScript")} and ${c.bold.blue("PhP")}. \n
 Love open source development and share on my GitHub profile 🚶 ${link(c.red.bold('github.com/faizalanwar'), 'https://github.com/faizalanwar')}.
 `.trim(), { width: 200, trim: true }));
 
