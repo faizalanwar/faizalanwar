@@ -7,6 +7,14 @@ var got = require('got');
 var ww = require('word-wrap');
 var iq = require('inquirer');
 var opn = require('open');
+function calculate_age(dob) { 
+  var diff_ms = Date.now() - dob.getTime();
+  var age_dt = new Date(diff_ms); 
+
+  return Math.abs(age_dt.getUTCFullYear() - 1970);
+}
+
+var umur = calculate_age(new Date(1999, 12, 26));
 
 got('https://avatars.githubusercontent.com/u/52071488?v=4', { responseType: 'buffer' })
   .then(function (image) { return img.buffer(image.body, { width: '33%' }) })
@@ -17,7 +25,11 @@ got('https://avatars.githubusercontent.com/u/52071488?v=4', { responseType: 'buf
     console.log(ww(`
 
 
-Hi. I'm ${c.blue.bold("Faizal Anwar")}! , but you can call me Isal ${c.underline.bold.green("(read: e'sal)")} , 22 years old a 👨‍💻 ${c.bgCyan.black.bold("Frontend Engineer")} , living in West Java, Indonesia. I’m currently learning about Design thinking and ${c.white.bold("write a program ")} with ${c.underline.bold.yellow("JavaScript")} and ${c.bold.blue("PhP")}. I love open source development and share on my GitHub profile 🚶 ${link(c.red.bold('github.com/faizalanwar'), 'https://github.com/faizalanwar')}.
+Hi. I'm ${c.blue.bold("Faizal Anwar")}! , but you can call me Isal ${c.underline.bold.green("(read: e'sal)")} 
+
+I'm ${umur} years old a 👨‍💻 ${c.bgCyan.black.bold("Frontend Engineer")} , living in West Java, Indonesia,
+and currently learning about Design thinking and ${c.white.bold("write a program ")} with ${c.underline.bold.yellow("JavaScript")} and ${c.bold.blue("PhP")}. 
+Love open source development and share on my GitHub profile 🚶 ${link(c.red.bold('github.com/faizalanwar'), 'https://github.com/faizalanwar')}.
 `.trim(), { width: 200, trim: true }));
 
     console.log('\n\n')
