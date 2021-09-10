@@ -27,7 +27,7 @@ got('https://avatars.githubusercontent.com/u/52071488?v=4', { responseType: 'buf
 Hi. I'm ${c.blue.bold("Faizal Anwar")}! , but you can call me Isall ${c.underline.bold.green("(read: e'sall)")} .
 I'm ${umur} years old a 👨‍💻 ${c.bgCyan.black.bold("Frontend Engineer")} , living in West Java - Indonesia.
 Currently learning about Design thinking and ${c.white.bold("write a program ")} with ${c.underline.bold.yellow("JavaScript")} and ${c.bold.blue("PhP")}. 
-Love open source development and share on my GitHub profile 🚶 ${link(c.red.bold('github.com/faizalanwar'), 'https://github.com/faizalanwar')}.
+Love open source development and share on my GitHub profile 🚶.
 `.trim(), { width: 200, trim: true }));
 
     console.log('\n\n')
