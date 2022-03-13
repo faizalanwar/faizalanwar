@@ -22,13 +22,16 @@ Do not forget to view my open source projects below 👇🏻
   <br/> 
   
 ## Github statistics  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=faizalanwar.visitor-badge&left_text=MyPageVisitors)  
-
- <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact&hide_border=true"/>
+<p align="center">
+    <a href="https://github.com/faizalanwar">
+       <img height="180em" alt="faizalanwar" src="https://github-readme-streak-stats.herokuapp.com/?user=faizalanwar&hide_border=true"/>
+    </a>
 </p>
-<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faizalanwar&hide_border=true"/> -->
-
+ <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact&hide_border=true "/>
+</p>
+  
   
 ##  Want to build like this ?
 
