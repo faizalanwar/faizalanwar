@@ -1,6 +1,6 @@
 ### `npx faizalanwar`
-
-Hi. I'm Faizal  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , but you can call me Isal(read: e'sal) , 22 years old a 👨‍💻 **` Frontend Engineer `**, living in West Java, Indonesia.  I’m currently learning about Design thinking and write a program with <i>JavaScript</i> and <i>PhP</i> .  I love open source development and share on [my GitHub profile🚶](https://github.com/faizalanwar).
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  -->
+Hi. I'm Faizal  👋, but you can call me Isal(read: e'sal) , 22 years old a 👨‍💻 **` Frontend Engineer `**, living in West Java, Indonesia.  I’m currently learning about Design thinking and write a program with <i>JavaScript</i> and <i>PhP</i> .  I love open source development and share on [my GitHub profile🚶](https://github.com/faizalanwar).
 <!-- 
   
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/faizalanwar)
