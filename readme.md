@@ -1,6 +1,6 @@
 ### `npx faizalanwar`
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  -->
-Hi. I'm Faizal  👋, but you can call me Isal(read: e'sal) , 22 years old a 👨‍💻 **` Frontend Engineer `**, living in West Java, Indonesia.  I’m currently learning about Design thinking and write a program with <i>JavaScript</i> and <i>PhP</i> .  I love open source development and share on [my GitHub profile🚶](https://github.com/faizalanwar).
+Hi. I'm Faizal  👋, but you can call me Isal(read: e'sal) , 22 years old a 👨‍💻 **` Fullstack Engineer `**, living in West Java, Indonesia.  I’m currently learning about Design thinking and write a program with <i>JavaScript</i> and <i>PhP</i> .  I love open source development and share on [my GitHub profile🚶](https://github.com/faizalanwar).
 <!-- 
   
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/faizalanwar)
@@ -29,9 +29,13 @@ Do not forget to view my open source projects below 👇🏻
 </p>
  <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact&hide_border=true "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" /> 
 </p>
-  
+
+<p align="center">
+ <img  src="https://github-profile-trophy.vercel.app/?username=faizalanwar" alt="faizalanwar's github stats" /> 
+ <img src="https://activity-graph.herokuapp.com/graph?username=faizalanwar&bg_color=ffffff&color=000000&line=facc15&point=ffffff&area_color=27272a&area=true&hide_border=true" alt="faizalanwar's github stats" /> 
+</p>
   
 ##  Want to build like this ?
 
