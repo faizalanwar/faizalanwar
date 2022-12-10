@@ -13,15 +13,8 @@ Do not forget to view my open source projects below 👇🏻
 
   try this `npx faizalanwar`. but why? -- why not? 🤷🏻‍♂️
 
-<!--START_SECTION:waka-->
 
-```text
-PHP              40 mins         ████████████████████████▓   98.49 %
-Blade Template   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-```
-
-<!--END_SECTION:waka-->
-<!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=009v6xi434xnrztc9o4xa9toj&cover_image=false&theme=natemoo-re" style=" margin-right: 0;width: 50%;"> -->
+ 
 
 <details>
   <summary>More...</summary>
@@ -29,6 +22,9 @@ Blade Template   0 secs          ▒░░░░░░░░░░░░░░�
   <br/> 
   
 ## Github statistics  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=faizalanwar.visitor-badge&left_text=MyPageVisitors)  
+
+  
+  
 <p align="center">
     <a href="https://github.com/faizalanwar">
        <img height="180em" alt="faizalanwar" src="https://github-readme-streak-stats.herokuapp.com/?user=faizalanwar&hide_border=true"/>
@@ -38,13 +34,21 @@ Blade Template   0 secs          ▒░░░░░░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" /> 
 </p>
-
-<p align="center">
- <img  src="https://github-profile-trophy.vercel.app/?username=faizalanwar" alt="faizalanwar's github stats" /> 
- <img src="https://activity-graph.herokuapp.com/graph?username=faizalanwar&bg_color=ffffff&color=000000&line=facc15&point=ffffff&area_color=27272a&area=true&hide_border=true" alt="faizalanwar's github stats" /> 
-</p>
+ 
+    
+## My  Wakatime Statistic
   
-##  Want to build like this ?
+  <!--START_SECTION:waka-->
+
+```text
+PHP              40 mins         ████████████████████████▓   98.49 %
+Blade Template   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+```
+
+<!--END_SECTION:waka-->
+  
+  
+<!-- ##  Want to build like this ?
 
 clone this repo `npm install && npm update`
 
@@ -61,8 +65,8 @@ clone this repo `npm install && npm update`
 
    - Publish the package. `npm publish --access=public`
    - And to push the updates to npm: `npm publish`
-  
-  <hr />
+  -->
+  <hr /> 
   
  🎁 Thanks for checking my profile. I got something for you -  [**Flexbox-Guide**](https://flexbox-guide.vercel.app/?ref=https://github.com/faizalanwar) ⚡ A Guide for the concept of `CSS Flexbox`, `Responsive Design` and Simply `CSS code Generator`. 🎉  by souravdev777
 </details>
