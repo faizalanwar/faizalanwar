@@ -39,6 +39,12 @@ Do not forget to view my open source projects below 👇🏻
 ## My  Wakatime Statistic
   
   <!--START_SECTION:waka-->
+
+```text
+PHP              40 mins         ████████████████████████▓   98.49 %
+Blade Template   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+```
+
 <!--END_SECTION:waka-->
   
   
