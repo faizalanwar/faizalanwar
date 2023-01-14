@@ -40,7 +40,8 @@ Do not forget to view my open source projects below 👇🏻
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP    29 mins         ███████████████████████░░   91.73 %
+JSON   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
 ```
 
 <!--END_SECTION:waka--> 
