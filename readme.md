@@ -40,7 +40,7 @@ Do not forget to view my open source projects below 👇🏻
 <!--START_SECTION:waka-->
 
 ```text
-PHP   8 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
