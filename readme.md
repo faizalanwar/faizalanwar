@@ -34,18 +34,13 @@ Do not forget to view my open source projects below 👇🏻
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" /> 
 </p> -->
- <!-- 
+
  ## My  Wakatime Statistic
   
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka--> 
+<!--END_SECTION:waka-->
  
-  
+   <!-- 
 <!-- ##  Want to build like this ?
 
 clone this repo `npm install && npm update`
