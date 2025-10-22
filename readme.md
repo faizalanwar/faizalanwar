@@ -1,18 +1,14 @@
 [![An image of @faizalanwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/faizalanwar)](https://holopin.io/@faizalanwar)
 
+
+<br>
 <!-- ### `npx faizalanwar` -->
-   Hi. I'm Faizal   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> , but you can call me Isal(read: e'sal) , 22 years old a 👨‍💻 **` Fullstack Engineer `**, living in West Java, Indonesia.  
-<!-- 
-  
-- 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/faizalanwar)
-- 🐦  [What do I think? (**Twitter**)](https://twitter.com/fzlanwr)
-- 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/faizalanwar)
+Hi there! 👋 I'm **Faizal Anwar** (but you can call me **faisal** - pronounced *"fa ee-sal"* 😊).  
 
-Do not forget to view my open source projects below 👇🏻
- -->
+Writing code by day, debugging life by night - with Java, Spring, Kotlin, Laravel, Next.js, and a cup that’s never empty (no grounds, ofc!). 😅
+When I'm not on duty (aka glued to my screen), you’ll probably find me unwinding, or tinkering with side projects I’ll probably never finish… but hey, it’s fun!
 
-
-  try this `npx faizalanwar`. but why? -- why not? 🤷🏻‍♂️
+try this  `npx faizalanwar`. but why? -- why not? 🤷🏻‍♂️ 
 
 
  
