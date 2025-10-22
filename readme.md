@@ -1,15 +1,7 @@
 [![An image of @faizalanwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/faizalanwar)](https://holopin.io/@faizalanwar)
 
-
-<br/>
-<!-- ### `npx faizalanwar` 
-
-<!--
-Hi there! 👋 I'm Faizal Anwar (but you can call me faisal - pronounced "fa ee-sal" 😊).  
-
-Writing code by day, debugging life by night - with Java, Spring, Kotlin, Laravel, Next.js, and a cup that’s never empty (no grounds, ofc!). 😅
-When I'm not on duty (aka glued to my screen), you’ll probably find me unwinding, or tinkering with side projects I’ll probably never finish… but hey, it’s fun!
--->
+ 
+ 
 try this  `npx faizalanwar`. but why? -- why not? 🤷🏻‍♂️ 
 
 
@@ -19,9 +11,16 @@ try this  `npx faizalanwar`. but why? -- why not? 🤷🏻‍♂️
   <summary>More...</summary>
   
   <br/> 
-  
+
+ 
+
 ## Github statistics  ![Profile Views](https://komarev.com/ghpvc/?username=faizalanwar)
-    
+Hi there! 👋 I'm Faizal Anwar (but you can call me faisal - pronounced "fa ee-sal" 😊).  
+
+Writing code by day, debugging life by night - with Java, Spring, Kotlin, Laravel, Next.js, and a cup that’s never empty (no grounds, ofc!). 😅
+When I'm not on duty (aka glued to my screen), you’ll probably find me unwinding, or tinkering with side projects I’ll probably never finish… but hey, it’s fun!
+ 
+  
   
 <p align="center">
     <a href="https://github.com/faizalanwar">
