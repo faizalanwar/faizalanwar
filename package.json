@@ -3,6 +3,7 @@
   "version": "3.0.2",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npx faizalanwar"
   },
@@ -25,12 +26,11 @@
     "faizalanwar": "./index.js"
   },
   "dependencies": {
-    "chalk": "^4.1.0",
-    "got": "^11.5.0",
-    "inquirer": "^7.3.0",
-    "open": "6.0.0",
-    "terminal-image": "^1.1.0",
-    "terminal-link": "^2.1.1",
-    "word-wrap": "^1.2.3"
+    "chalk": "^5.3.0",
+    "got": "^13.0.0",
+    "inquirer": "^9.2.11",
+    "open": "^9.1.0",
+    "terminal-image": "^2.0.0",
+    "word-wrap": "^1.2.5"
   }
 }
