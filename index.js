@@ -1,48 +1,47 @@
 #!/usr/bin/env node
-'use strict';
-var c = require('chalk');
-var link = require('terminal-link');
-var img = require('terminal-image');
-var got = require('got');
-var ww = require('word-wrap');
-var iq = require('inquirer');
-var opn = require('open');
+import chalk from 'chalk';
+import terminalImage from 'terminal-image';
+import got from 'got';
+import wordWrap from 'word-wrap';
+import inquirer from 'inquirer';
+import open from 'open';
 
-function calculate_age(dob) { 
-  var diff_ms = Date.now() - dob.getTime();
-  var age_dt = new Date(diff_ms); 
-  return Math.abs(age_dt.getUTCFullYear() - 1970);
+const calculateAge = (dob) => { 
+  const diffMs = Date.now() - dob.getTime();
+  const ageDate = new Date(diffMs); 
+  return Math.abs(ageDate.getUTCFullYear() - 1970);
 }
-var umur = calculate_age(new Date(1999, 12, 26));
+const age = calculateAge(new Date(1999, 12, 26));
 
-got('https://avatars.githubusercontent.com/u/52071488?v=4', { responseType: 'buffer' })
-  .then(function (image) { return img.buffer(image.body, { width: '33%' }) })
-  .then(function (image) {
+try {
+  const response = await got('https://avatars.githubusercontent.com/u/52071488?v=4', { responseType: 'buffer' });
+  const image = await terminalImage.buffer(response.body, { width: '33%' });
 
-    console.log('\n\n')
-    console.log(image)
-    console.log(ww(`
-
-
-Hi. I'm ${c.blue.bold("Faizal Anwar")}! , but you can call me Isall ${c.underline.bold.green("(read: e'sall)")} .
-I'm ${umur} years old a 👨‍💻 ${c.bgCyan.black.bold("Frontend Engineer")} , living in West Java - Indonesia.
-Currently learning about Design thinking and ${c.white.bold("write a program ")} with ${c.underline.bold.yellow("JavaScript")} and ${c.bold.blue("PhP")}. 
-Love open source development and share on my GitHub profile 🚶.
+  console.log('\n\n');
+  console.log(image);
+  console.log(wordWrap(`
+Hi. I'm ${chalk.blue.bold("Faizal Anwar")}! , but you can call me Isall ${chalk.underline.bold.green("(read: e'sall)")} .
+I'm ${age} years old a 👨‍💻 ${chalk.bgCyan.black.bold("Fulltack developer")} , living in West Java - Indonesia.
 `.trim(), { width: 200, trim: true }));
 
-    console.log('\n\n')
-    iq.prompt([
-      {
-        type: 'list',
-        message: 'Do you want to learn more about me?',
-        name: 'open',
-        choices: [
-          { name: c.white(`💻  What am I doing about Open Source? (${c.bold('GitHub')})`), value: 'https://github.com/faizalanwar' },
-          { name: c.cyan(`🐦  What do I think? (${c.bold('Twitter')})`), value: 'https://twitter.com/fzlanwr' },
-          { name: c.blue(`🏹  Curriculum vitae, the path of my life (${c.bold('LinkedIn')})`), value: 'https://linkedin.com/in/faizalanwar/' },
-          { name: c.red('👋  Nope. Bye.\n'), value: false }
-        ]
-       
-      }
-    ]).then(function (a) { opn(a.open); process.exit() }).catch(function () { });
-  }).catch(function (e) { console.log(e) });
+  console.log('\n\n');
+  const answer = await inquirer.prompt([{
+    type: 'list',
+    message: 'Do you want to learn more about me?',
+    name: 'open',
+    choices: [
+      { name: chalk.white(`💻  What am I doing about Open Source? (${chalk.bold('GitHub')})`), value: 'https://github.com/faizalanwar' },
+      { name: chalk.cyan(`🐦  What do I think? (${chalk.bold('Twitter')})`), value: 'https://twitter.com/fzlanwr' },
+      { name: chalk.blue(`🏹  Curriculum vitae, the path of my life (${chalk.bold('LinkedIn')})`), value: 'https://linkedin.com/in/faizalanwar/' },
+      { name: chalk.red('👋  Nope. Bye.\n'), value: false }
+    ]
+  }]);
+
+  if (answer.open) {
+    await open(answer.open);
+  }
+  process.exit();
+} catch (error) {
+  console.error(error);
+  process.exit(1);
+}

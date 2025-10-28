@@ -1,17 +1,8 @@
-<!-- ### `npx faizalanwar` -->
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  -->
-<!-- Hi. I'm Faizal  👋, but you can call me Isal(read: e'sal) , 22 years old a 👨‍💻 **` Fullstack Engineer `**, living in West Java, Indonesia.  I’m currently learning about Design thinking and write a program with <i>JavaScript</i> and <i>PhP</i> .  I love open source development and share on [my GitHub profile🚶](https://github.com/faizalanwar). -->
-<!-- 
-  
-- 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/faizalanwar)
-- 🐦  [What do I think? (**Twitter**)](https://twitter.com/fzlanwr)
-- 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/faizalanwar)
+[![An image of @faizalanwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/faizalanwar)](https://holopin.io/@faizalanwar)
 
-Do not forget to view my open source projects below 👇🏻
- -->
-
-
-  try this `npx faizalanwar`. but why? -- why not? 🤷🏻‍♂️
+ 
+ 
+try this  `npx faizalanwar`. but why? -- why not? 🤷🏻‍♂️ 
 
 
  
@@ -20,9 +11,16 @@ Do not forget to view my open source projects below 👇🏻
   <summary>More...</summary>
   
   <br/> 
-  
+
+ 
+
 ## Github statistics  ![Profile Views](https://komarev.com/ghpvc/?username=faizalanwar)
-    
+Hi there! 👋 I'm Faizal Anwar (but you can call me faisal - pronounced "fa ee-sal" 😊).  
+
+Writing code by day, debugging life by night - with Java, Spring, Kotlin, Laravel, Next.js, and a cup that’s never empty (no grounds, ofc!). 😅
+When I'm not on duty (aka glued to my screen), you’ll probably find me unwinding, or tinkering with side projects I’ll probably never finish… but hey, it’s fun!
+ 
+  
   
 <p align="center">
     <a href="https://github.com/faizalanwar">
@@ -34,11 +32,7 @@ Do not forget to view my open source projects below 👇🏻
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" /> 
 </p> -->
-
- ## My  Wakatime Statistic
   
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
  
    <!-- 
 <!-- ##  Want to build like this ?
