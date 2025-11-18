@@ -25,12 +25,13 @@
   "bin": {
     "faizalanwar": "./index.js"
   },
-  "dependencies": {
+  "dependencies": { 
+    "terminal-image": "^3.0.0",
+    "terminal-link": "^2.1.1",  
     "chalk": "^5.3.0",
     "got": "^13.0.0",
     "inquirer": "^9.2.11",
-    "open": "^9.1.0",
-    "terminal-image": "^2.0.0",
-    "word-wrap": "^1.2.5"
+    "open": "^9.1.0", 
+    "word-wrap": "^1.2.5" 
   }
 }
