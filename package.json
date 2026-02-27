@@ -1,6 +1,6 @@
 {
   "name": "faizalanwar",
-  "version": "3.0.2",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -17,7 +17,7 @@
     "anwar"
   ],
   "author": "faizalanwar",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/faizalanwar/faizalanwar/issues"
   },
