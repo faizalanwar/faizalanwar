@@ -20,14 +20,18 @@ try {
   console.log('\n\n');
   console.log(image);
   console.log(wordWrap(`
-Hi. I'm ${chalk.blue.bold("Faizal Anwar")}! , but you can call me Isall ${chalk.underline.bold.green("(read: e'sall)")} .
-I'm ${age} years old a 👨‍💻 ${chalk.bgCyan.black.bold("Fulltack developer")} , living in West Java - Indonesia.
+
+  Hi there! 👋 I'm ${chalk.blue.bold("Faizal Anwar")}! (but you can call me faisal - pronounced ${chalk.underline.bold.green("fay-sal")}) .  
+  I'm a ${age}-yo, based in West Java, Indonesia. 
+  Writing code by day, debugging life by night - with Java, Spring, Kotlin, Laravel, Next.js, and a cup that’s never empty (no grounds, ofc!). 😅
+  When I'm not on duty (aka glued to my screen), you’ll probably find me unwinding, or tinkering with side projects I’ll probably never finish… but hey, it’s fun!
+
 `.trim(), { width: 200, trim: true }));
 
   console.log('\n\n');
   const answer = await inquirer.prompt([{
     type: 'list',
-    message: 'Do you want to learn more about me?',
+    message: 'Do you want to know more about me?',
     name: 'open',
     choices: [
       { name: chalk.white(`💻  What am I doing about Open Source? (${chalk.bold('GitHub')})`), value: 'https://github.com/faizalanwar' },
