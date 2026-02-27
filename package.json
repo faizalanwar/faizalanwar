@@ -1,6 +1,6 @@
 {
   "name": "faizalanwar",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -25,13 +25,12 @@
   "bin": {
     "faizalanwar": "./index.js"
   },
-  "dependencies": { 
-    "terminal-image": "^3.0.0",
-    "terminal-link": "^2.1.1",  
-    "chalk": "^5.3.0",
-    "got": "^13.0.0",
-    "inquirer": "^9.2.11",
-    "open": "^9.1.0", 
-    "word-wrap": "^1.2.5" 
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "got": "^14.6.6",
+    "inquirer": "^13.3.0",
+    "open": "^11.0.0",
+    "terminal-image": "^4.2.0",
+    "word-wrap": "^1.2.5"
   }
 }

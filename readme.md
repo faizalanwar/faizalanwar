@@ -21,21 +21,18 @@ Writing code by day, debugging life by night - with Java, Spring, Kotlin, Larave
 When I'm not on duty (aka glued to my screen), you’ll probably find me unwinding, or tinkering with side projects I’ll probably never finish… but hey, it’s fun!
  
   
-  
-<p align="center">
-    <a href="https://github.com/faizalanwar">
-       <img height="180em" alt="faizalanwar" src="https://github-readme-streak-stats.herokuapp.com/?user=faizalanwar&hide_border=true"/>
-    </a>
-</p>
    
-<!--  <p align="center">
+<p align="center">
+<a href="https://github.com/faizalanwar"><img src="https://github-readme-streak-stats.herokuapp.com?user=faizalanwar&card_height=198" alt="GitHub Streak" /></a>
+</p> 
+   
+   <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" /> 
-</p> -->
+</p>  
   
- 
-   <!-- 
-<!-- ##  Want to build like this ?
+  
+  ##  Want to build like this ?
 
 clone this repo `npm install && npm update`
 
@@ -53,11 +50,7 @@ clone this repo `npm install && npm update`
    - Publish the package. `npm publish --access=public`
    - And to push the updates to npm: `npm publish`
 
-  <hr /> 
-    -->
-  
-  <hr /> 
-  
+  <hr />   
  🎁 Thanks for checking my profile. 
 </details>
 
