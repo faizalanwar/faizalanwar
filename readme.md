@@ -1,6 +1,9 @@
+<!-- 
+
+
 [![An image of @faizalanwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/faizalanwar)](https://holopin.io/@faizalanwar)
 
- 
+ -->
  
 try this  `npx faizalanwar`. but why? -- why not? 🤷🏻‍♂️ 
 
