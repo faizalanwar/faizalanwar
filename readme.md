@@ -31,7 +31,8 @@ When I'm not on duty (aka glued to my screen), you’ll probably find me unwindi
    
    <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizalanwar&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" /> 
+    <!-- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalanwar&layout=compact&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="faizalanwar's github stats" />  -->
 </p>  
   
   
